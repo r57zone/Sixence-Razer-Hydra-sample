@@ -1,2 +1,2 @@
-# Sixence-Razer-Hydra-sample
-Sixence Razer Hydra Sample / пример
+# Sixence Razer Hydra sample
+Implementation for read data from Razer Hydra on C++.
